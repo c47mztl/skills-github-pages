@@ -1,0 +1,4 @@
+theme: minima
+title: {{ login }} 的个人博客
+description: 随便写写
+author: {{ login }}
